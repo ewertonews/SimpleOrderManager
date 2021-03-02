@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"status": 1,
+		"orderItems": []
+	},
+	{
+		"id": 2,
+		"status": 5,
+		"orderItems": [
+			{
+				"id": 1,
+				"itemName": "Pork Barbecue",
+				"kitchenArea": "BBQ",
+				"itemDescription": "Pork Barbequeue",
+				"itemPrice": 15,
+				"ready": false
+			}
+		]
+	},
+	{
+		"id": 3,
+		"status": 1,
+		"orderItems": [
+			{
+				"id": 2,
+				"itemName": "string",
+				"kitchenArea": "string",
+				"itemDescription": "string",
+				"itemPrice": 0,
+				"ready": false
+			}
+		]
+	},
+	{
+		"id": 4,
+		"status": 1,
+		"orderItems": [
+			{
+				"id": 3,
+				"itemName": "Barbecue",
+				"kitchenArea": "BBQ",
+				"itemDescription": "A nice grilled steak",
+				"itemPrice": 25,
+				"ready": false
+			},
+			{
+				"id": 4,
+				"itemName": "Caesar Salad",
+				"kitchenArea": "SLD",
+				"itemDescription": "Caesar Salad",
+				"itemPrice": 13,
+				"ready": false
+			}
+		]
+	}
+]
